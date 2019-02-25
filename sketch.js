@@ -53,14 +53,14 @@ function draw(){
    
 }
 
-function keyReleased(){
+/*function keyReleased(){
     player.setDir(0);
-}
+}*/
 
-function keyPressed(){
+/*function keyPressed(){
     if (keyCode == RIGHT_ARROW){
         player.setDir(1);
     } else if (keyCode == LEFT_ARROW) {
         player.setDir(-1);
     }
-}
+}*/
